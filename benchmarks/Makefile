@@ -25,6 +25,7 @@ bmarks = \
 	vvadd \
 	multiply \
 	mm \
+	flushtest \
 	dhrystone \
 	spmv \
 	mt-vvadd \
